@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="0q99qj9k1jpkap0zf_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="design:view:::1qwfnhnzrkf_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,118,198" />
+      <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.TOperatorEnum" />
+      <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.TCalculator" />
+      <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.TCalcStatus" />
+      <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::oyxf2u2r8tr_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="147,1,147,151" />
+      <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uFormCalculator.TFormCalc" />
+      <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uFormCalculator.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::z0ykx7vzvsq2i4lrk_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="313,1,179,134" />
+      <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:DelphiSuperCalculator.@unitclass" />
+    </reference>
+  </view>
+</nodeSet>

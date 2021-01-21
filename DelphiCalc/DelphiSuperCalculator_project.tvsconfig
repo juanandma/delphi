@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.DelphiSuperCalculator" Type="System.String" Value="DelphiSuperCalculator" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uCalculator" Type="System.String" Value="uCalculator" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uFormCalculator" Type="System.String" Value="uFormCalculator" Category="General" IsBrowsable="False" />
+</TgConfig>

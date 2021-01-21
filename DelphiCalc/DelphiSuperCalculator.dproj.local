@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/18 22:50:31.000.977,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 22:53:31.000.008,C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\uFormCalculator.fmx=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/18 22:53:31.000.008,C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\uFormCalculator.pas=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 22:53:50.000.249,C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\DelphiSuperCalculator.dproj=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/18 23:41:27.000.801,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\Unit1.pas</Transaction>
+    <Transaction>2021/01/18 23:42:02.000.603,C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\uCalculator.pas=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 18:15:53.112,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\ModelSupport_DelphiSuperCalculator\default.txaPackage</Transaction>
+    <Transaction>2021/01/20 18:15:55.263,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\ModelSupport_DelphiSuperCalculator\default.txvpck</Transaction>
+    <Transaction>2021/01/20 18:16:04.034,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\ModelSupport_DelphiSuperCalculator\DelphiSuperCalculator\default.txvpck</Transaction>
+    <Transaction>2021/01/20 18:16:45.956,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\ModelSupport_DelphiSuperCalculator\uCalculator\default.txvpck</Transaction>
+    <Transaction>2021/01/20 18:16:46.006,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\ModelSupport_DelphiSuperCalculator\uFormCalculator\default.txvpck</Transaction>
+    <Transaction>2021/01/20 18:17:24.856,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\ModelSupport_DelphiSuperCalculator\uCalculator\default.txaPackage</Transaction>
+    <Transaction>2021/01/20 18:18:38.278,=C:\Users\JUANM\Documents\Embarcadero\Studio\Projects\DelphiCalc\ModelSupport_DelphiSuperCalculator\DelphiSuperCalculator\default.txaPackage</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

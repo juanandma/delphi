@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="1qwfnhnzrkf_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.TOperatorEnum">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,106,128" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TOperatorEnum.opNull" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TOperatorEnum.opAdd" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TOperatorEnum.opSubtract" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TOperatorEnum.opMultiply" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TOperatorEnum.opDivide" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.TCalculator">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="135,1,115,129" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalculator.Add(System.Double,System.Double)" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalculator.Subtract(System.Double,System.Double)" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalculator.Multiply(System.Double,System.Double)" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalculator.Divide(System.Double,System.Double)" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.TCalcStatus">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="269,1,166,206" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TCalcStatus.FInputValue" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TCalcStatus.FCurrentTotal" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TCalcStatus.FOperation" />
+      <reference referencedUin="delphi:e_field:src:DelphiSuperCalculator:uCalculator.TCalcStatus.FDisplayTotal" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalcStatus.AddDigit(System.string)" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalcStatus.AddDecimalSeparator()" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalcStatus.CalcTotal()" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalcStatus.NewOperation(uCalculator.TOperatorEnum)" />
+      <reference referencedUin="delphi:e_method:src:DelphiSuperCalculator:uCalculator.TCalcStatus.DisplayValue()" />
+      <reference referencedUin="delphi:l_ast:src:DelphiSuperCalculator:uCalculator.TCalcStatus.FOperation">
+        <property name="sourceAnchor" value="269,74" />
+        <property name="targetAnchor" value="116,74" />
+        <property name="bendpoints" value="" />
+      </reference>
+    </reference>
+    <reference referencedUin="delphi:e_class:src:DelphiSuperCalculator:uCalculator.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+  </view>
+</nodeSet>
